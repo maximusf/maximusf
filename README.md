@@ -3,6 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about developing programs and exploring the endless possibilities of coding. I specialize in Java, but I'm also diving into the worlds of Python, MATLAB, and C++ to broaden my skill set and tackle new challenges.
 
 ### 🌱 Currently Learning
+- Java
 - C++
 - Python
 - React.js
