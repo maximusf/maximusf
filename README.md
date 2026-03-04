@@ -1,15 +1,21 @@
 # Hi, I'm Maximus 👋
 
-Welcome to my GitHub profile! I'm passionate about developing programs and exploring the endless possibilities of coding. I specialize in Java, but I'm also diving into the worlds of Python, MATLAB, and C++ to broaden my skill set and tackle new challenges.
+📍 **South Carolina** | 🖥️ **Looking for Software Engineer Internship**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 🌱 Currently Learning
-- Java
-- C++
-- Python
-- React.js
 
-### ⚡ Fun Fact
-When I'm not coding, you can find me playing the alto saxophone. Music is another passion of mine that helps me unwind and find inspiration in unexpected places.
+> Quote
+
+## Current Projects
+- ...
 
 ## Connect
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximus-fernandez-nunez/)
