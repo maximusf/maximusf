@@ -13,8 +13,8 @@
 ## Current Projects
 - 🏰 [Habit Hearth](https://github.com/maximusf/habit-hearth) - Your story only continues if you do the work; habit tracker RPG
 - 📝 [Lingua Franca](https://github.com/maximusf/Lingua_Franca) - Messy files in, clean decisions out; OCR to LLM in one pipeline
-- 🎞️ [Clip Maker](https://github.com/maximusf/ClipMaker) - Breaks long MP4 files into textable chunks for Instagram DMs
 - 🎸 [Moosician](https://github.com/HardikMarlapudi/MoosicanMusicApp) - Side-scrolling sheet music practice using keyboard input inspired by Guitar Hero
+- 🎞️ [Clip Maker](https://github.com/maximusf/ClipMaker) - Breaks long MP4 files into textable chunks for Instagram DMs
 - 🧪 [SC Quantum](https://github.com/maximusf/SCQuant_DoraHacks_2024) - Analyzing the difference between PRNG and QRNG from qubits
 
 ## Connect
