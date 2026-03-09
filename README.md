@@ -10,11 +10,9 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-
-> Quote
-
 ## Current Projects
-- ...
+- 🏰 [Habit Hearth](https://github.com/maximusf/habit-hearth) - Your story only continues if you do the work.
+- ⚡ [Lingua Franca](https://github.com/maximusf/Lingua_Franca) - Messy files in, clean decisions out; OCR to LLM in one pipeline
 
 ## Connect
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximus-fernandez-nunez/)
