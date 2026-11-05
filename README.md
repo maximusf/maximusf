@@ -16,7 +16,9 @@
   ## Featured Projects
 
   - 🌐 [Inspire Columbia](https://github.com/inspirecolumbia/ic-website) - A production website and secure recruiting platform built with Next.js, Supabase, and Clerk
+  - 🏋️ [RepMaxx](https://www.maximusfernandez.com/projects/repmaxx) - An offline-first lifting log PWA with Supabase sync and web push reminders
   - 🏰 [Habit Hearth](https://github.com/maximusf/habit-hearth) - An offline-first Android habit tracker where completing tasks helps rebuild a fantasy village
+  - 💳 [CreditHero](https://www.maximusfernandez.com/projects/credithero) - My capstone project, a Next.js app that compares credit card rewards (in progress)
   - 📝 [Lingua Franca](https://github.com/maximusf/Lingua_Franca) - Messy files in, clean decisions out; OCR and a local LLM in one pipeline
 
   ## Connect
